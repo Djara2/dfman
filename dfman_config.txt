@@ -1,0 +1,5 @@
+DEBUG: False
+accent_color: default
+prompt_icon: >
+show_version_number: True
+double_space_lines: False
